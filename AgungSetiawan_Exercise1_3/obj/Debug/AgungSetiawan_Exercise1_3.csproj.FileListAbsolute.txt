@@ -1,0 +1,6 @@
+C:\Users\1573\source\repos\AgungSetiawan_Exercise1_3\AgungSetiawan_Exercise1_3\bin\Debug\AgungSetiawan_Exercise1_3.exe.config
+C:\Users\1573\source\repos\AgungSetiawan_Exercise1_3\AgungSetiawan_Exercise1_3\bin\Debug\AgungSetiawan_Exercise1_3.exe
+C:\Users\1573\source\repos\AgungSetiawan_Exercise1_3\AgungSetiawan_Exercise1_3\bin\Debug\AgungSetiawan_Exercise1_3.pdb
+C:\Users\1573\source\repos\AgungSetiawan_Exercise1_3\AgungSetiawan_Exercise1_3\obj\Debug\AgungSetiawan_Exercise1_3.csproj.CoreCompileInputs.cache
+C:\Users\1573\source\repos\AgungSetiawan_Exercise1_3\AgungSetiawan_Exercise1_3\obj\Debug\AgungSetiawan_Exercise1_3.exe
+C:\Users\1573\source\repos\AgungSetiawan_Exercise1_3\AgungSetiawan_Exercise1_3\obj\Debug\AgungSetiawan_Exercise1_3.pdb
